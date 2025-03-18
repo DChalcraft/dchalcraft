@@ -1,17 +1,9 @@
 
-# Hi, I’m Dom Chalcraft 👋
+# Hi, I’m Dominic Chalcraft 👋
 
-A fullstack developer with a focus on backend development, SysAdmin and DevOps. The main languages I use profesionally are Ruby and Ruby on Rails for web development and Ansible/Terraform for provisioning, configuration and infrastructure control. I use this account for personal projects while keeping my professional Github account separate.
+A fullstack developer with a focus on backend development, SysAdmin and DevOps. The main languages I use profesionally are Ruby and Ruby on Rails for web development and Ansible/Terraform for provisioning, configuration and infrastructure control. I use this account for professional engagements while keeping my personal Github account separate.
 
 - My personal Github profile can be found [here](https://github.com/domchalcraft)
-
----
-
-#### Some languages I've used
-
-[![Key Skills](https://skillicons.dev/icons?i=ruby,rails,nginx,mysql,postgresql,redis,mongodb,docker,aws,gcp,linux,ansible,git,githubactions,html,css,react,js,ts,bootstrap,matlab,latex&theme=light)](https://skillicons.dev)
-
-
 
 <!---
 domchalcraft/domchalcraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
