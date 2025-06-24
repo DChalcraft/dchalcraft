@@ -5,6 +5,11 @@ A fullstack developer with a focus on backend development, SysAdmin and DevOps. 
 
 - My personal Github profile can be found [here](https://github.com/domchalcraft)
 
+<details>
+  <summary>⚡ Github Streak</summary>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-2-blue.vercel.app?user=DChalcraft" alt="GitHub Streak" /></a>
+</details>
+
 <!---
 domchalcraft/domchalcraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
